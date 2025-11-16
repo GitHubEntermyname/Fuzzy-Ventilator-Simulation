@@ -1,0 +1,22 @@
+# MATLAB artifacts
+*.asv
+*.m~
+*.slxc
+*.mdl
+*.slx.autosave
+*.mex*
+
+# Simulink cache
+slprj/
+*.log
+*.mat
+*.fig
+
+# IDE folders
+.vscode/
+.idea/
+*.swp
+
+# Backup files
+*~
+*.bak
