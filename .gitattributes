@@ -1,0 +1,7 @@
+# Normalize line endings
+* text=auto
+
+# Treat MATLAB and Simulink files as text
+*.m text
+*.slx text
+*.mdl text
